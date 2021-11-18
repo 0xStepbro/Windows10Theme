@@ -1,0 +1,37 @@
+# Windows-10-Theme
+
+1. Create a restore point, Simply search for Create a restore point
+Select your windows system (C) drive, Configure
+Select Turn on system protection & set max usage to 20%
+Apply & OK.
+Select Create option given below Configure and create a restore point.
+
+2. Download and Run ThemeTool.exe as administrator
+Select Yes
+Select Hook SystemSettings, Hook LogonUI, Rename DefaultColors
+INSTALL & REBOOT.
+
+3. Download Paranoid android window 10 theme
+Extract the zip, Open the extracted zip folder
+Go to Windows 10 Themes folder
+Go to Pure Dark folder
+Select all files and copy to c:\windows\resources\themes
+
+again, run ThemeTool.exe as administrator
+Select yes
+Select nebula & Patch
+again, select Ignore background and Ignore cursor
+Patch and apply
+
+4. Create a new folder in localdisk c:\ and name it Win10
+Cut & Paste your ThemeTool.exe to Win10 folder
+
+5. Download sweet paranoia icon pack
+Extract the zip, Open the extracted zip folder
+Delete 7TSP, Read me and Sweet Paranoia Preview
+Open iPack folder and rename Sweet Paranoia.exe.remove to Sweet Paranoia.exe
+Run Sweet Paranoia.exe
+Accept, Next, Select Patch all files > Next > Yes (It might take few minutes depending on your PC specs)
+FINISH.
+
+6. Go back to extracted folder > sweet paranoia icon theme > Cut & Paste candy-icons folder to localdisk c:\
