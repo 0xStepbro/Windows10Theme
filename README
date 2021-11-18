@@ -43,3 +43,23 @@ Select Use command bar instead of Ribbon and the following 3 options starting wi
 INSTALL & Close.
 
 8. Go to Taskbar settings > Use small taskbar buttons > Set the taskbar location on screen to Top.
+
+9. Download startisback and paranoidOrbs
+Run startisback and Select Install for me, 
+wait till it get installed then select configure startisback now
+
+In Appearance, Select Second Dark Menu > Select First Dark Explorer & Apply (DON'T CLOSE THE SETTING YET)
+Extract paranoidOrbs and Open the folder
+Go to startisback settings and click on + icon
+Choose the folder where you extacted paranoidOrbs and select Lace3.png > Select the start icon as Lace
+Apply & OK
+
+10. Right click on taskbar and unselect Show cortana button, Show taskview button
+Again right click on taskbar and set Search > Hidden
+
+11. Download the new cursor
+Extract the files and Open Breeze_Snow_x2 > Right click on Install.inf and Install
+In mouse properties settings select the mouse cursor you just installed
+Apply & OK.
+
+12. Download and Set wallpaper.
