@@ -35,3 +35,11 @@ Accept, Next, Select Patch all files > Next > Yes (It might take few minutes dep
 FINISH.
 
 6. Go back to extracted folder > sweet paranoia icon theme > Cut & Paste candy-icons folder to localdisk c:\
+
+7. Download and extract OldNewExplorer
+Cut & Paste OldNewExplorer folder to c:\Win10\ > Open OldNewExplorer and Run OldNewExplorer as administrator
+IN APPEARANCE
+Select Use command bar instead of Ribbon and the following 3 options starting with HIDE, Unselect all other already selected options except the one you did.
+INSTALL & Close.
+
+8. Go to Taskbar settings > Use small taskbar buttons > Set the taskbar location on screen to Top.
